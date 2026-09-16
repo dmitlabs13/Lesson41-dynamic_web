@@ -11,8 +11,9 @@ nginx + php-fpm (laravel/wordpress) + python (flask/django) + js(react/angular);
 
 
 ## Будем использовать два сервера
-alp41-nginx - 192.168.50.209\
-alp41-apache - 192.168.50.208
+
+alp41-front - 192.168.50.209 (nginx) ;
+alp41-back - 192.168.50.208 php-fpm (wordpress) + python (django) + js(node.js);
 
 
 

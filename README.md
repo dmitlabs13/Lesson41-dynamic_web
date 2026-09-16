@@ -3,13 +3,9 @@
 ## Задание
 Что нужно сделать?
 
-Варианты стенда:
-
+### Вариант стенда:
 nginx + php-fpm (laravel/wordpress) + python (flask/django) + js(react/angular);
-nginx + java (tomcat/jetty/netty) + go + ruby;
-можно свои комбинации.
 
-Реализации на выбор:
-
+### Реализации:
 на хостовой системе через конфиги в /etc;
-деплой через docker-compose.
+

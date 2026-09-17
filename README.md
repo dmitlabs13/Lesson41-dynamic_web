@@ -1,4 +1,4 @@
-# Lesson41-dynamic_web
+# Lesson42-dynamic_web
 
 ## Задание
 Собрать стенд для приложения
